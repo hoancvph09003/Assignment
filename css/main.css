@@ -1,0 +1,183 @@
+header{
+    background: #f7f7f7;
+}
+.header{
+    background-color: #f7f7f7;
+    padding: 20px 0px;
+    margin: 0px;
+}
+.banner-img img{
+    max-width: 100%;
+    padding-bottom: 50px;
+}
+.banner{
+    position: relative;
+    text-align: center;
+}
+.banner-text{
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%,-50%);
+}
+.banner-text__titel{
+    font-size: 80px;
+    color: #fff;
+}
+.banner-text__a{
+    color: #fff;
+    background-color:#252526;
+    border-color: #252526;
+    font-size: 14px;
+}
+/* .banner .btn{
+    margin: 80px 0px 20px 0px;
+} */
+.section-heading__titel{
+    text-align: center;
+}
+.featured-courses-heading{
+    background: #fff;
+}
+.featured-courses-heading__title{
+    padding-bottom: 25px;
+    margin: 0px; 
+}
+.section{
+    padding: 50px 170px;
+}
+.cate-course{
+    background: #f7f7f7;
+}
+.cate-course-item{
+    background: #fff;
+}
+.card a{
+    text-decoration: none;
+}
+.product-item img{
+    max-width: 100%;
+    height: 200px;
+}
+.product-item a{
+    font-size: 16px;
+}
+.product-item__title{
+    font-size: 18px;
+}
+.product-item__text{
+    font-size: 14px;
+    color: #949599;
+}
+.product-item__price .old-price{
+    color: #c9cacf;
+    text-decoration: line-through;
+}
+.product-item__a{
+    color: #252526;
+    background-color: #c6c7cc;
+    border-color: #c6c7cc;
+}
+.cate-course-item{
+    height: 230px;
+    padding: 20px 30px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+}
+.project__img{
+    max-width: 100%;
+}
+.project-body{
+    background: black;
+    margin-right: 0px;
+}
+.project-jumbotron{
+    color: #fff;
+    padding:20px;
+}
+.project-jumbotron__titel a{
+    text-decoration: none;
+    color: cyan;
+}
+.project-jumbotron__titel{
+    margin: 20px 0px;
+    font-size: 40px;
+}
+.project-jumbotron__text{
+    margin: 20px 0px;
+    font-size: 14px;
+    color: #c6c7cc;
+}
+.project-jumbotron__a{
+    margin: 20px 0px;
+    background-color: cyan;
+    border-color: cyan;
+}
+.upcoming-events-heading__title{
+    background: #fff;
+}
+.upcoming-events-body__title{
+    font-size: 17px;
+}
+.about{
+    background: #252526;
+}
+.about-heading{
+    background: #252526;
+    color: #fff;
+}
+/* .bolg-item{
+    height: 400px;
+} */
+.subscribe{
+    background: #778de6;
+    margin: 0px; padding: 0px;
+}
+.subscribe-search {
+    background-color: #778de6;
+}
+.subscribe-search .subscribe-search__control{
+    border: 1px solid #fff;
+    background-color: #748ae5;
+}
+.subscribe-heading{
+    padding: 20px 280px;
+}
+.subscribe-heading__titel{
+    color: #fff;
+}
+.subscribe-search__submit{
+    background-color: #fff;
+    color: #252526;
+    border-color: #fff;
+}
+.courses{
+    background: #252526;
+}
+.courses-heading__titel{
+    color: #fff;
+}
+.coursese-body__text{
+    color: #6f7073;
+}
+.courses-heading{
+    margin-bottom: 40px;
+}
+.courses-body a{
+    color: #c6c7cc;
+    text-decoration: none;
+}
+.media{
+    margin: 20px 0px;
+}
+.footer{
+    background: #313233;
+}
+.footer-text{
+    color: #6f7073;
+}
+.footer-text a{
+    color: #fff;
+    text-decoration: none;
+}
